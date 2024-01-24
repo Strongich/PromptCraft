@@ -40,7 +40,7 @@ pip install virtualenv
 ```bash
 virtualenv name_of_the_new_env
 ```
-### Example:
+#### Example:
 ```bash
 virtualenv promptcraft
 ```
@@ -48,7 +48,7 @@ virtualenv promptcraft
 ```bash
 name_of_the_new_env\Scripts\activate
 ```
-### Example:
+#### Example:
 ```bash
 promptcraft\Scripts\activate
 ```
